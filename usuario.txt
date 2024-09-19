@@ -1,1 +1,2 @@
 usuario=root
+CPU=model name	: AMD Athlon(tm) II X2 240 Processor

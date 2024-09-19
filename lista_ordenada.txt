@@ -1,0 +1,9 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+tss:x:100:107:TPM software stack,,,:/var/lib/tpm:/bin/false
+speech-dispatcher:x:105:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+gnome-initial-setup:x:111:65534::/run/gnome-initial-setup/:/bin/false
+Debian-gdm:x:112:121:Gnome Display Manager:/var/lib/gdm3:/bin/false
+lautaro:x:1000:1000:lautaro,,,:/home/lautaro:/bin/bash
+yo:x:1001:1001::/home/yo:/bin/sh
+y:x:1003:1003:yo,,,:/home/y:/bin/bash
